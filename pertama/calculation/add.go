@@ -1,7 +1,7 @@
 package calculation
 
 func Add(number int, numbertwo int) int {
-	return add(5, 3)
+	return add(number, numbertwo)
 
 }
 
